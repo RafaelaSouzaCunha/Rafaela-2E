@@ -1,0 +1,11 @@
+body
+{
+background-color:bisque;
+fant.family: Bai Jamjuree;
+}
+Footer
+{
+background-color: black;
+color: Write;
+Position.Fixed
+bottton
